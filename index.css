@@ -1,0 +1,33 @@
+body {
+    background:mistyrose;
+    font-family: Helvetica, sans-serif;
+    color: #555555;
+}
+
+.social {   
+    background: lightblue;   
+    color: white;   
+    width: 100px;
+    }   
+
+i {
+    font-size: 30px;
+
+}
+    
+div {
+    display: inline-block;
+    width: 55%;
+    vertical-align: top;
+    margin: 50px;
+}
+
+.intro {
+    width: 30%;
+    margin: 20px;
+    text-align: center;
+}
+
+#profile {
+    width: 70%;
+}
